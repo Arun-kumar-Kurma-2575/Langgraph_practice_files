@@ -2,3 +2,4 @@
 .vscode
 /myenv
 .env
+groq_api_keys
